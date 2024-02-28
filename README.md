@@ -2,7 +2,12 @@
 
 ## Installation
 
-I installed this package via `sudo npm link` (without publishing it to the registry).
+I installed this package via `sudo npm link` (without publishing it to the registry):
+
+```
+% cd ~/tmp/hello/
+% sudo npm link
+```
 
 Result:
 
