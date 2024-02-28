@@ -1,0 +1,13 @@
+{
+  "name": "@rauschma/hello",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "hello": "hello.mjs"
+  },
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
